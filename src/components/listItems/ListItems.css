@@ -1,0 +1,24 @@
+li{
+   font-size: medium;
+   width: 60%;
+   list-style: none;
+   height: 30px;
+   margin-bottom: 5px;
+}
+
+button{
+    padding: 5px 10px;
+}
+
+.deletebutton{
+    float: right;
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+}
+
+.editbutton{
+    float: right;
+    background-color: gray;
+    color: white;
+}

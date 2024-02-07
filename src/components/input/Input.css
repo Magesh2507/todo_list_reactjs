@@ -1,0 +1,30 @@
+
+
+.container{
+    width: 100%;
+}
+
+.form{
+    width: 100%;
+    margin: 50px;
+}
+
+h1,input{
+margin-top: 50px;
+}
+
+.input{
+    width: 50%;
+    padding-left: 5px;
+    
+}
+
+.input, .submit{
+    height: 40px;
+}
+
+.submit{
+    margin-left: 20px;
+    background-color: green;
+    color: white;
+}
